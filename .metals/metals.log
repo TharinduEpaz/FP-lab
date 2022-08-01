@@ -14690,3 +14690,9 @@ WARNING: Unmatched cancel notification for request id 12396
 2022.08.01 22:31:57 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q3.scala
 Aug 01, 2022 10:31:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 12457
+2022.08.01 22:37:20 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q3.scala
+2022.08.01 22:37:24 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q3.scala
+2022.08.01 22:37:29 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q1.scala
+2022.08.01 22:37:31 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q1.scala
+2022.08.01 22:37:34 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q1.scala
+2022.08.01 22:37:35 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q2.scala

@@ -5,7 +5,7 @@
 // 200000.
 
 
-object ScalaLab3_Question1{
+object ScalaLab4_Question1{
      
      def main(args: Array[String]) = {  
         println(interest(200324));

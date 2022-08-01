@@ -12,7 +12,7 @@
 // saman
 // KumarA
 
-object ScalaLab3_Question5 {
+object ScalaLab4_Question3 {
   def main(args: Array[String]) = {
 
     def toUpper(s: String): String = {
