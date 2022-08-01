@@ -14696,3 +14696,5 @@ WARNING: Unmatched cancel notification for request id 12457
 2022.08.01 22:37:31 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q1.scala
 2022.08.01 22:37:34 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q1.scala
 2022.08.01 22:37:35 WARN  no build target for: /Users/tharinduepasingha/Documents/Y2 S1/Functional Programming/lab4/Lab 4/q2.scala
+Aug 01, 2022 10:38:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
